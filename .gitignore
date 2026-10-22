@@ -1,0 +1,7 @@
+ai_env/
+__pycache__/
+*.pyc
+.env
+data/
+*.log
+.DS_Store
